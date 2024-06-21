@@ -1,2 +1,14 @@
-package com.st.seungtaekspringlab.user.dto;public class SignInDto {
+package com.st.seungtaekspringlab.user.dto;
+
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+
+@Getter
+@NoArgsConstructor
+@AllArgsConstructor
+public class SignInDto {
+
+    private String email;
+    private String password;
 }

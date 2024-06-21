@@ -1,2 +1,4 @@
-package com.st.seungtaekspringlab.common.config;public class SecurityConfig {
+package com.st.seungtaekspringlab.common.config;
+
+public class SecurityConfig {
 }
